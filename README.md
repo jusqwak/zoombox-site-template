@@ -1,8 +1,10 @@
 # Zoombox Website Template
 A minimalistic single-page website template built with React and Framer Motion for smooth, simplistic animations.<br/>
-Zoombox features five prebuilt interactive boxes that dynamically fill the screen. Each box can be clicked to expand into a full-screen view, allowing you to display detailed content such as text, images, links, or custom components.<br/>
+Zoombox features five prebuilt interactive boxes that dynamically fill the screen. Each box can be clicked to expand into a full-screen view, allowing you to display detailed content such as text, images, links, or custom components.
 
-Includes: <br/>
+Created for the purpose of a simple yet interactive experience using React to create a modular, reusable structure that anyone can customize, and Framer Motion fill in the immersive animations between the "zooming" transitions.
+
+Includes:
   - A cover screen with a logo when page is first opened
   - A home screen with 5 clickable boxes that each can full screen independenly
   - A premade "About Me" when clicked, displays a example card of infomation
